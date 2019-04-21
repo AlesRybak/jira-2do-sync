@@ -1,0 +1,143 @@
+{
+  "expand": "schema,names",
+  "startAt": 0,
+  "maxResults": 50,
+  "total": 15,
+  "issues": [
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "55719",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/55719",
+      "key": "LNDSDP-1007",
+      "fields": {
+        "summary": "Webdata API + JS Probe implementation PoC"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "54492",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/54492",
+      "key": "AREAJAVA-49",
+      "fields": {
+        "summary": "Příprava Liferay školení "
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "54578",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/54578",
+      "key": "LNDSDP-891",
+      "fields": {
+        "summary": "Choose naming sources"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "53571",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/53571",
+      "key": "AREAJAVA-40",
+      "fields": {
+        "summary": "Údržba docker images"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "49308",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/49308",
+      "key": "CRDFSSC-585",
+      "fields": {
+        "summary": "Internal technical consultations, fixing and ops"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "55773",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/55773",
+      "key": "AREAJAVA-54",
+      "fields": {
+        "summary": "Docker Experts Training"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "52984",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/52984",
+      "key": "AREAJAVA-14",
+      "fields": {
+        "summary": "Self-education - Aleš Rybák"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "55776",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/55776",
+      "key": "AREAJAVA-56",
+      "fields": {
+        "summary": "Lundegaard Java Commons"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "55777",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/55777",
+      "key": "AREAJAVA-57",
+      "fields": {
+        "summary": "Split Lundegaard Java Commons into separate repos"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "54559",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/54559",
+      "key": "LNDSDP-881",
+      "fields": {
+        "summary": "Revisit FastAI architecture and codebase"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "52948",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/52948",
+      "key": "AREAJAVA-12",
+      "fields": {
+        "summary": "Delivery standards and portal build"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "53398",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/53398",
+      "key": "AREAJAVA-34",
+      "fields": {
+        "summary": "Documentation Layer"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "53766",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/53766",
+      "key": "AREAJAVA-41",
+      "fields": {
+        "summary": "Lundegaard Java Commons Development"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "53011",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/53011",
+      "key": "AREAJAVA-16",
+      "fields": {
+        "summary": "Database Layer"
+      }
+    },
+    {
+      "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+      "id": "51810",
+      "self": "https://jira.lnd.bz/rest/api/2/issue/51810",
+      "key": "DEVOPS-636",
+      "fields": {
+        "summary": "Self-education - Aleš Rybák"
+      }
+    }
+  ]
+}

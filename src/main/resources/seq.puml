@@ -1,0 +1,13 @@
+@startuml
+
+start
+
+:Parse configuration;
+
+:Create Command Object;
+
+:Run Command Object;
+
+end
+
+@enduml
