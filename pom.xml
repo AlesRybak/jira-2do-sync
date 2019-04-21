@@ -4,7 +4,7 @@
 
     <groupId>cz.alry</groupId>
     <artifactId>jira-2do-cli</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>Simple Jira to 2Do sync tool</name>
