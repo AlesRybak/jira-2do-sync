@@ -263,6 +263,14 @@
         </plugins>
     </build>
 
+    <distributionManagement>
+        <repository>
+            <id>github-packages</id>
+            <name>GitHub Packages Maven Repository</name>
+            <url>https://maven.pkg.github.com/AlesRybak</url>
+        </repository>
+    </distributionManagement>
+
     <profiles>
         <profile>
             <id>production-release</id>

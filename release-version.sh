@@ -39,7 +39,7 @@ git merge --gpg-sign -m "Merge branch 'release/$1' into master" --no-ff release/
 git branch -d release/$1
 
 # Build new production artifacts
-mvn clean deploy -P release
+mvn clean deploy -P production-release
 
 # Tag the new relase version
 git tag --sign -m "Version $1" -a v$1
